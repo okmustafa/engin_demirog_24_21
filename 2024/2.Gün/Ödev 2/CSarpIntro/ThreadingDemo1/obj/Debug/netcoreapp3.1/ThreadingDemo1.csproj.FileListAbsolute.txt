@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ThreadingDemo1\bin\Debug\netcoreapp3.1\ThreadingDemo1.exe
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ThreadingDemo1\bin\Debug\netcoreapp3.1\ThreadingDemo1.deps.json
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ThreadingDemo1\bin\Debug\netcoreapp3.1\ThreadingDemo1.runtimeconfig.json
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ThreadingDemo1\bin\Debug\netcoreapp3.1\ThreadingDemo1.runtimeconfig.dev.json
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ThreadingDemo1\bin\Debug\netcoreapp3.1\ThreadingDemo1.dll
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ThreadingDemo1\bin\Debug\netcoreapp3.1\ThreadingDemo1.pdb
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ThreadingDemo1\obj\Debug\netcoreapp3.1\ThreadingDemo1.Form1.resources
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ThreadingDemo1\obj\Debug\netcoreapp3.1\ThreadingDemo1.csproj.GenerateResource.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ThreadingDemo1\obj\Debug\netcoreapp3.1\ThreadingDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ThreadingDemo1\obj\Debug\netcoreapp3.1\ThreadingDemo1.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ThreadingDemo1\obj\Debug\netcoreapp3.1\ThreadingDemo1.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ThreadingDemo1\obj\Debug\netcoreapp3.1\ThreadingDemo1.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ThreadingDemo1\obj\Debug\netcoreapp3.1\ThreadingDemo1.dll
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ThreadingDemo1\obj\Debug\netcoreapp3.1\ThreadingDemo1.pdb
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ThreadingDemo1\obj\Debug\netcoreapp3.1\ThreadingDemo1.genruntimeconfig.cache

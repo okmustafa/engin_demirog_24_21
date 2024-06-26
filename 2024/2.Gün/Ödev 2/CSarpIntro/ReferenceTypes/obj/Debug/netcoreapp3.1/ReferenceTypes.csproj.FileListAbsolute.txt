@@ -1,0 +1,13 @@
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.exe
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.deps.json
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.json
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.dev.json
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.dll
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.pdb
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.dll
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.pdb
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 2\CSarpIntro\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.genruntimeconfig.cache

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.G\u00FCn\\\u00D6dev 2\\CSarpIntro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EB08A2-F672-4A08-9D4B-8A0A3B542A88}|LinqProject\\LinqProject.csproj|c:\\users\\musta\\onedrive\\belgeler\\projeler\\engin_demirog\\2024\\2.g\u00FCn\\\u00F6dev 2\\csarpintro\\linqproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EB08A2-F672-4A08-9D4B-8A0A3B542A88}|LinqProject\\LinqProject.csproj|solutionrelative:linqproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719DB618-A14A-4F08-AF90-0C4975509FAC}|ThreadingDemo1\\ThreadingDemo1.csproj|C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.G\u00FCn\\\u00D6dev 2\\CSarpIntro\\threadingdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{719DB618-A14A-4F08-AF90-0C4975509FAC}|ThreadingDemo1\\ThreadingDemo1.csproj|solutionrelative:threadingdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719DB618-A14A-4F08-AF90-0C4975509FAC}|ThreadingDemo1\\ThreadingDemo1.csproj|c:\\users\\musta\\onedrive\\belgeler\\projeler\\engin_demirog\\2024\\2.g\u00FCn\\\u00F6dev 2\\csarpintro\\threadingdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719DB618-A14A-4F08-AF90-0C4975509FAC}|ThreadingDemo1\\ThreadingDemo1.csproj|solutionrelative:threadingdemo1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECEE062-9DA1-4FFA-9B5B-3B071265B080}|Generics\\Generics.csproj|c:\\users\\musta\\onedrive\\belgeler\\projeler\\engin_demirog\\2024\\2.g\u00FCn\\\u00F6dev 2\\csarpintro\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECEE062-9DA1-4FFA-9B5B-3B071265B080}|Generics\\Generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.G\u00FCn\\\u00D6dev 2\\CSarpIntro\\LinqProject\\Program.cs",
+              "RelativeDocumentMoniker": "LinqProject\\Program.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.G\u00FCn\\\u00D6dev 2\\CSarpIntro\\LinqProject\\Program.cs",
+              "RelativeToolTip": "LinqProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:10:55.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.G\u00FCn\\\u00D6dev 2\\CSarpIntro\\ThreadingDemo1\\Form1.cs",
+              "RelativeDocumentMoniker": "ThreadingDemo1\\Form1.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.G\u00FCn\\\u00D6dev 2\\CSarpIntro\\ThreadingDemo1\\Form1.cs",
+              "RelativeToolTip": "ThreadingDemo1\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAApwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:17:06.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.G\u00FCn\\\u00D6dev 2\\CSarpIntro\\ThreadingDemo1\\Form1.cs",
+              "RelativeDocumentMoniker": "ThreadingDemo1\\Form1.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.G\u00FCn\\\u00D6dev 2\\CSarpIntro\\ThreadingDemo1\\Form1.cs [Design]",
+              "RelativeToolTip": "ThreadingDemo1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:12:54.334Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.G\u00FCn\\\u00D6dev 2\\CSarpIntro\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.G\u00FCn\\\u00D6dev 2\\CSarpIntro\\Generics\\Program.cs",
+              "RelativeToolTip": "Generics\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:11:27.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

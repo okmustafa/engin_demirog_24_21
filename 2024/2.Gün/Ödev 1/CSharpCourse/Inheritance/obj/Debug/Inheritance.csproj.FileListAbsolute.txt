@@ -1,0 +1,7 @@
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\Inheritance\obj\Debug\Inheritance.pdb

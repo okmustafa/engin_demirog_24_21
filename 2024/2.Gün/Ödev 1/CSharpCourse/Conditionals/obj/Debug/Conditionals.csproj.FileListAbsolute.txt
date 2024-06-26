@@ -1,0 +1,7 @@
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\Conditionals\obj\Debug\Conditionals.pdb
