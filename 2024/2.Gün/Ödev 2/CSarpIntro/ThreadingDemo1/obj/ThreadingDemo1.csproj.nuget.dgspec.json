@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\ThreadingDemo1\\ThreadingDemo1.csproj": {}
+    "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\ThreadingDemo1\\ThreadingDemo1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\ThreadingDemo1\\ThreadingDemo1.csproj": {
+    "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\ThreadingDemo1\\ThreadingDemo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\ThreadingDemo1\\ThreadingDemo1.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\ThreadingDemo1\\ThreadingDemo1.csproj",
         "projectName": "ThreadingDemo1",
-        "projectPath": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\ThreadingDemo1\\ThreadingDemo1.csproj",
+        "projectPath": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\ThreadingDemo1\\ThreadingDemo1.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\ThreadingDemo1\\obj\\",
+        "outputPath": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\ThreadingDemo1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\Generics\\Generics.csproj": {}
+    "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\Generics\\Generics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\Generics\\Generics.csproj": {
+    "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\Generics\\Generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\Generics\\Generics.csproj",
+        "projectUniqueName": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\Generics\\Generics.csproj",
         "projectName": "Generics",
-        "projectPath": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\Generics\\Generics.csproj",
+        "projectPath": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\Generics\\Generics.csproj",
         "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin_Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\Generics\\obj\\",
+        "outputPath": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\2.Gün\\Ödev 2\\CSarpIntro\\Generics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\musta\\AppData\\Roaming\\NuGet\\NuGet.Config",
