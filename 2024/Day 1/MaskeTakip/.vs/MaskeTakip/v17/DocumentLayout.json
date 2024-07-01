@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. G\u00FCn\\MaskeTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E141225A-FC35-4258-8DB8-1E0ADB7E51D2}|Entities\\Entities.csproj|c:\\users\\musta\\onedrive\\belgeler\\projeler\\engin demirog\\2024\\1. g\u00FCn\\masketakip\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E141225A-FC35-4258-8DB8-1E0ADB7E51D2}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41263B20-5E94-4BC2-B718-2E7C12036D42}|Workaround\\Workaround.csproj|c:\\users\\musta\\onedrive\\belgeler\\projeler\\engin demirog\\2024\\1. g\u00FCn\\masketakip\\workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41263B20-5E94-4BC2-B718-2E7C12036D42}|Workaround\\Workaround.csproj|solutionrelative:workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41263B20-5E94-4BC2-B718-2E7C12036D42}|Workaround\\Workaround.csproj|c:\\users\\musta\\onedrive\\belgeler\\projeler\\engin demirog\\2024\\1. g\u00FCn\\masketakip\\workaround\\workaround.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41263B20-5E94-4BC2-B718-2E7C12036D42}|Workaround\\Workaround.csproj|solutionrelative:workaround\\workaround.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8308ED-0532-43D0-ACAB-D6B4941A9625}|Business\\Business.csproj|c:\\users\\musta\\onedrive\\belgeler\\projeler\\engin demirog\\2024\\1. g\u00FCn\\masketakip\\business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8308ED-0532-43D0-ACAB-D6B4941A9625}|Business\\Business.csproj|solutionrelative:business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8308ED-0532-43D0-ACAB-D6B4941A9625}|Business\\Business.csproj|c:\\users\\musta\\onedrive\\belgeler\\projeler\\engin demirog\\2024\\1. g\u00FCn\\masketakip\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F8308ED-0532-43D0-ACAB-D6B4941A9625}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F8308ED-0532-43D0-ACAB-D6B4941A9625}|Business\\Business.csproj|c:\\users\\musta\\onedrive\\belgeler\\projeler\\engin demirog\\2024\\1. g\u00FCn\\masketakip\\business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F8308ED-0532-43D0-ACAB-D6B4941A9625}|Business\\Business.csproj|solutionrelative:business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E141225A-FC35-4258-8DB8-1E0ADB7E51D2}|Entities\\Entities.csproj|c:\\users\\musta\\onedrive\\belgeler\\projeler\\engin demirog\\2024\\1. g\u00FCn\\masketakip\\entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E141225A-FC35-4258-8DB8-1E0ADB7E51D2}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PttManager.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. G\u00FCn\\MaskeTakip\\Business\\Concrete\\PttManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PttManager.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. G\u00FCn\\MaskeTakip\\Business\\Concrete\\PttManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PttManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:49:15.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. G\u00FCn\\MaskeTakip\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. G\u00FCn\\MaskeTakip\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T19:23:29.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. G\u00FCn\\MaskeTakip\\Workaround\\Program.cs",
+              "RelativeDocumentMoniker": "Workaround\\Program.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. G\u00FCn\\MaskeTakip\\Workaround\\Program.cs",
+              "RelativeToolTip": "Workaround\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:43:33.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Workaround.csproj",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. G\u00FCn\\MaskeTakip\\Workaround\\Workaround.csproj",
+              "RelativeDocumentMoniker": "Workaround\\Workaround.csproj",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. G\u00FCn\\MaskeTakip\\Workaround\\Workaround.csproj",
+              "RelativeToolTip": "Workaround\\Workaround.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T19:40:15.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonManager.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. G\u00FCn\\MaskeTakip\\Business\\Concrete\\PersonManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PersonManager.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. G\u00FCn\\MaskeTakip\\Business\\Concrete\\PersonManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PersonManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:35:23.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. G\u00FCn\\MaskeTakip\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. G\u00FCn\\MaskeTakip\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T19:25:14.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. G\u00FCn\\MaskeTakip\\Entities\\Concrete\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Person.cs",
+              "ToolTip": "C:\\Users\\musta\\OneDrive\\Belgeler\\Projeler\\Engin Demirog\\2024\\1. G\u00FCn\\MaskeTakip\\Entities\\Concrete\\Person.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Person.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:27:11.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

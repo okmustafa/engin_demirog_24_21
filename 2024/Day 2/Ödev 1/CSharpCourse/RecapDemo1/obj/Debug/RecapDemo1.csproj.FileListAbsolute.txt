@@ -1,0 +1,20 @@
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin_Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.pdb
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\musta\OneDrive\Belgeler\Projeler\Engin Demirog\2024\2.Gün\Ödev 1\CSharpCourse\RecapDemo1\obj\Debug\RecapDemo1.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkAround", "WorkAround\WorkAround.csproj", "{8BDE9BA0-9BC7-49AE-B2AA-2D425BD58DBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{E3642B18-3508-4CF0-93B1-BCBC211812D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{73868EBD-B22D-4E15-8D4C-74E2FB607CB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BDE9BA0-9BC7-49AE-B2AA-2D425BD58DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDE9BA0-9BC7-49AE-B2AA-2D425BD58DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDE9BA0-9BC7-49AE-B2AA-2D425BD58DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDE9BA0-9BC7-49AE-B2AA-2D425BD58DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3642B18-3508-4CF0-93B1-BCBC211812D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3642B18-3508-4CF0-93B1-BCBC211812D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3642B18-3508-4CF0-93B1-BCBC211812D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3642B18-3508-4CF0-93B1-BCBC211812D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73868EBD-B22D-4E15-8D4C-74E2FB607CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73868EBD-B22D-4E15-8D4C-74E2FB607CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73868EBD-B22D-4E15-8D4C-74E2FB607CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73868EBD-B22D-4E15-8D4C-74E2FB607CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F40D1E7-DACA-40BA-A781-8C21A7CBCD9C}
+	EndGlobalSection
+EndGlobal
